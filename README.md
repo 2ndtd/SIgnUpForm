@@ -10,3 +10,6 @@ With only some input
 
 Non matching password
 ![Save with non matching password](3.png)
+
+All inputs and matching password
+![Save correct inputs](4.png)
